@@ -1,0 +1,122 @@
+
+
+/* グローバルメニューより上 */
+
+.toplogo img {
+  width: 450px;
+  height: auto;
+}
+
+/* グローバルメニュー */
+
+.menu {
+  list-style: none;
+  width: 110%;
+  height: 50px;
+  background-color: black;
+  margin-left: -50px;
+  margin-right: -50px;
+  padding-left:  90px;
+}
+
+.menu li {
+  float: left;
+  padding-left: 40px;
+  padding-right: 10px;
+  line-height: 55px;
+  color: white;
+}
+
+/* メニュー下の左側 */
+
+h1 {
+  border-left: 5px solid black;
+  border-bottom: 1px solid black;
+}
+
+.bookstore_pic img {
+  width: 100%;
+}
+
+.category {
+  text-align: center;
+  width: 100%;
+  height: auto;
+  background-color: lightgray;
+  padding-top: 30px;
+}
+
+.category .pic {
+  display: inline-block;
+  margin: 0px 10px;
+}
+
+.category img {
+  width: 215px;
+}
+
+.category p {
+  margin-top: 0px;
+}
+
+
+/* メニュー下の右側 */
+
+h2 {
+  border-bottom: 1px dotted black;
+}
+
+.side_bar {
+  list-style: none;
+  margin-bottom: 30px;
+}
+
+.side_bar li {
+  margin-left: -20px;
+  margin-bottom: 20px;
+}
+
+
+/* bodyを左右で分割 */
+
+.left_column {
+  float: left;
+  width: 69%;
+  margin-bottom: 50px;
+}
+
+.right_column {
+  float: right;
+  width: 27%;
+  margin-top: 12px;
+}
+
+
+body {
+  margin-bottom: 0px;
+}
+
+/* フッター */
+
+footer {
+  clear: both;
+  font-size: 15px;
+  text-align: center;
+  line-height: 50px;
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  color: white;
+  margin-left: -50px;
+  margin-right: -100px;
+  margin-bottom: 0px;
+  padding-left: 50px;
+}
+
+
+
+
+
+
+
+
